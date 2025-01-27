@@ -2,3 +2,6 @@ google-generativeai
 streamlit
 python-dotenv
 fpdf
+requests
+streamlit-folium
+folium
